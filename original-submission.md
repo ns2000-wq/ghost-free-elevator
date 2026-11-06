@@ -1,7 +1,4 @@
-<!--
-  호윤에게: 아래 이미지 줄의 파일명(submission-45th.jpg, submission-44th.jpg)을
-  네가 올린 실제 사진 파일명으로 바꿔줘. 사진은 이 docs/ 폴더에 함께 올리면 돼.
--->
+
 
 # Original Science-Fair Submission (Korean)
 
