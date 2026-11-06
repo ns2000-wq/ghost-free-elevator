@@ -25,7 +25,7 @@ A motion sensor is placed above the elevator door on each requested floor. When 
 - Arduino + **PIR motion sensor** + 3 LEDs (yellow / blue / red) + a request button
 - Code: [`ghost_free_elevator.ino`](ghost_free_elevator.ino)
 - Build photos: see `/photos` (from my science-fair submission)
-- Original submission (Korean scan + English translation): [`docs/original-submission.md`](docs/original-submission.md)
+- Original submission (Korean scan + English translation): [`original-submission.md`](original-submission.md)
 
 ## From idea to working model (v1 → v2)
 - **v1:** I entered the idea in a local invention fair, but it was still just a concept — *"to be built with Arduino."*
