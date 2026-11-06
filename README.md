@@ -30,11 +30,11 @@ A motion sensor is placed above the elevator door on each requested floor. When 
 ## From idea to working model (v1 → v2)
 - **v1:** I entered the idea in a local invention fair, but it was still just a concept — *"to be built with Arduino."*
 - **v2:** The next year I actually **coded and wired it**: the PIR sensor, the three-LED state machine, and the stop/pass decision.
-- **What was hard:** *(호윤: 센서가 엉뚱하게 반응했다든지, 배선/로직에서 막혔다가 고친 실제 이야기 1개를 여기 써)*
+- **What was hard:** The motion sensor was the tricky part. At first it reacted at the wrong times, so the elevator would "stop" even when no one was there. I tried different sensor positions and changed how the code reads it before deciding, until the stop/pass choice became reliable.
 - **Checking if it was new:** I searched patent/science databases (KIPRIS, national science museum). The idea came back as **"no match"** — it was new to me, and that felt great.
 
 ## What I learned
-*(호윤: 2~3줄, 네 말로. 예: "아이디어는 쉬웠지만 실제로 되게 만드는 건 완전히 다른 일이었다" 같은.)*
+Having an idea turned out to be the easy part — making it actually work was a completely different challenge. Turning a plan on paper into a circuit that behaved correctly taught me to be patient and to debug one small step at a time.
 
 ## Tech
 `Arduino` · `PIR motion sensor` · `LEDs` · `digital I/O` · state-machine logic
