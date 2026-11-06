@@ -30,7 +30,7 @@ A motion sensor is placed above the elevator door on each requested floor. When 
 ## From idea to working model (v1 → v2)
 - **v1:** I entered the idea in a local invention fair, but it was still just a concept — *"to be built with Arduino."*
 - **v2:** The next year I actually **coded and wired it**: the PIR sensor, the three-LED state machine, and the stop/pass decision.
-- **What was hard:** The motion sensor was the tricky part. At first it reacted at the wrong times, so the elevator would "stop" even when no one was there. I tried different sensor positions and changed how the code reads it before deciding, until the stop/pass choice became reliable.
+- **What was hard:** I had never coded before. I bought an Arduino kit from a local shop and struggled just to understand how it worked. I only got it running after a teacher showed me how the board works and how to wire it.
 - **Checking if it was new:** I searched patent/science databases (KIPRIS, national science museum). The idea came back as **"no match"** — it was new to me, and that felt great.
 
 ## What I learned
