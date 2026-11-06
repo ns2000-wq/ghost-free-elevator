@@ -9,10 +9,10 @@
 
 ## Original (Korean)
 
-![Original science-fair submission (Korean) — 45th fair](submission-45th.jpg)
+![Original science-fair submission (Korean) — 45th fair](submission-45th.jpeg)
 *Original science-fair submission (Korean) — 45th fair (Arduino-built version)*
 
-![Original science-fair submission (Korean) — 44th fair](submission-44th.jpg)
+![Original science-fair submission (Korean) — 44th fair](submission-44th.jpeg)
 *Original science-fair submission (Korean) — 44th fair (earlier concept version)*
 
 ---
