@@ -34,7 +34,7 @@ A motion sensor is placed above the elevator door on each requested floor. When 
 - **Checking if it was new:** I searched patent/science databases (KIPRIS, national science museum). The idea came back as **"no match"** — it was new to me, and that felt great.
 
 ## What I learned
-Having an idea turned out to be the easy part — making it actually work was a completely different challenge. Turning a plan on paper into a circuit that behaved correctly taught me to be patient and to debug one small step at a time.
+Having an idea is the easy part — making it work in the real world takes patience, help, and a lot of starting over. I also learned that I'd rather buy a kit and track down a teacher than leave a small, everyday problem unsolved.
 
 ## Tech
 `Arduino` · `PIR motion sensor` · `LEDs` · `digital I/O` · state-machine logic
